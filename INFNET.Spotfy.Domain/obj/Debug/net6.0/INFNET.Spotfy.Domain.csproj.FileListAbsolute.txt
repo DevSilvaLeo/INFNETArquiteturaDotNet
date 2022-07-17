@@ -1,0 +1,15 @@
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Domain\bin\Debug\net6.0\INFNET.Spotfy.Domain.deps.json
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Domain\bin\Debug\net6.0\INFNET.Spotfy.Domain.dll
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Domain\bin\Debug\net6.0\ref\INFNET.Spotfy.Domain.dll
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Domain\bin\Debug\net6.0\INFNET.Spotfy.Domain.pdb
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Domain\obj\Debug\net6.0\INFNET.Spotfy.Domain.csproj.AssemblyReference.cache
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Domain\obj\Debug\net6.0\INFNET.Spotfy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Domain\obj\Debug\net6.0\INFNET.Spotfy.Domain.AssemblyInfoInputs.cache
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Domain\obj\Debug\net6.0\INFNET.Spotfy.Domain.AssemblyInfo.cs
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Domain\obj\Debug\net6.0\INFNET.Spotfy.Domain.csproj.CoreCompileInputs.cache
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Domain\obj\Debug\net6.0\INFNET.Spotfy.Domain.dll
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Domain\obj\Debug\net6.0\ref\INFNET.Spotfy.Domain.dll
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Domain\obj\Debug\net6.0\INFNET.Spotfy.Domain.pdb
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Domain\bin\Debug\net6.0\INFNET.Spotfy.Infra.dll
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Domain\bin\Debug\net6.0\INFNET.Spotfy.Infra.pdb
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Domain\obj\Debug\net6.0\INFNET.Spotfy.Domain.csproj.CopyComplete

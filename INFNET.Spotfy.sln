@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Domain", "1 - Domain", "{65A78FD4-FDAD-458B-8C58-B49A2AAAF35F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - InfraStructure", "3 - InfraStructure", "{03ACAE19-4487-4C81-A9AC-8AB9480705A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Idp", "Idp", "{1BC114A4-87BE-40F9-996D-BF5A596BE4B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Repository", "4 - Repository", "{DC9BDEBF-B944-458F-A4C4-00EFBEE7D890}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{2B155661-B555-4071-99D0-8C8F000F4494}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "INFNET.Spotfy.Domain", "INFNET.Spotfy.Domain\INFNET.Spotfy.Domain.csproj", "{343EB56B-8C9B-4175-B1B1-B986DAC0B13D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "INFNET.Spotfy.Repository.SqlServer", "INFNET.Spotfy.Repository.SqlServer\INFNET.Spotfy.Repository.SqlServer.csproj", "{C8454AA5-FD22-4A49-AD30-E3490275EEB5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "INFNET.Spotfy.Infra", "INFNET.Spotfy.Infra\INFNET.Spotfy.Infra.csproj", "{784459AE-F99B-4C07-9D9B-99637AD23C92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{DD9A3243-6104-4ECF-916A-F23B87CC6D5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "INFNET.Spotfy.Application", "INFNET.Spotfy.Application\INFNET.Spotfy.Application.csproj", "{DC902287-2231-4664-8518-E7D7BEE78D76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INFNET.Spotfy.IdP", "INFNET.Spotfy.IdP\INFNET.Spotfy.IdP.csproj", "{D87A3159-2B14-4EBF-9128-2BD8F6FBF847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INFNET.Spotfy.API", "INFNET.Spotfy.API\INFNET.Spotfy.API.csproj", "{52722CDA-F990-4FCB-83C9-02A833EEE5CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{343EB56B-8C9B-4175-B1B1-B986DAC0B13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343EB56B-8C9B-4175-B1B1-B986DAC0B13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343EB56B-8C9B-4175-B1B1-B986DAC0B13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343EB56B-8C9B-4175-B1B1-B986DAC0B13D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8454AA5-FD22-4A49-AD30-E3490275EEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8454AA5-FD22-4A49-AD30-E3490275EEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8454AA5-FD22-4A49-AD30-E3490275EEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8454AA5-FD22-4A49-AD30-E3490275EEB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{784459AE-F99B-4C07-9D9B-99637AD23C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784459AE-F99B-4C07-9D9B-99637AD23C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784459AE-F99B-4C07-9D9B-99637AD23C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784459AE-F99B-4C07-9D9B-99637AD23C92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC902287-2231-4664-8518-E7D7BEE78D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC902287-2231-4664-8518-E7D7BEE78D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC902287-2231-4664-8518-E7D7BEE78D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC902287-2231-4664-8518-E7D7BEE78D76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D87A3159-2B14-4EBF-9128-2BD8F6FBF847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D87A3159-2B14-4EBF-9128-2BD8F6FBF847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D87A3159-2B14-4EBF-9128-2BD8F6FBF847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D87A3159-2B14-4EBF-9128-2BD8F6FBF847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52722CDA-F990-4FCB-83C9-02A833EEE5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52722CDA-F990-4FCB-83C9-02A833EEE5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52722CDA-F990-4FCB-83C9-02A833EEE5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52722CDA-F990-4FCB-83C9-02A833EEE5CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{343EB56B-8C9B-4175-B1B1-B986DAC0B13D} = {65A78FD4-FDAD-458B-8C58-B49A2AAAF35F}
+		{C8454AA5-FD22-4A49-AD30-E3490275EEB5} = {DC9BDEBF-B944-458F-A4C4-00EFBEE7D890}
+		{784459AE-F99B-4C07-9D9B-99637AD23C92} = {03ACAE19-4487-4C81-A9AC-8AB9480705A7}
+		{DC902287-2231-4664-8518-E7D7BEE78D76} = {DD9A3243-6104-4ECF-916A-F23B87CC6D5E}
+		{D87A3159-2B14-4EBF-9128-2BD8F6FBF847} = {1BC114A4-87BE-40F9-996D-BF5A596BE4B1}
+		{52722CDA-F990-4FCB-83C9-02A833EEE5CE} = {2B155661-B555-4071-99D0-8C8F000F4494}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFD54AC0-701B-459E-B4F8-A9415C9A2EE3}
+	EndGlobalSection
+EndGlobal

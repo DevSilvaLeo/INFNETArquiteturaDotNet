@@ -1,0 +1,12 @@
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Infra\bin\Debug\net6.0\INFNET.Spotfy.Infra.deps.json
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Infra\bin\Debug\net6.0\INFNET.Spotfy.Infra.dll
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Infra\bin\Debug\net6.0\ref\INFNET.Spotfy.Infra.dll
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Infra\bin\Debug\net6.0\INFNET.Spotfy.Infra.pdb
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Infra\obj\Debug\net6.0\INFNET.Spotfy.Infra.csproj.AssemblyReference.cache
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Infra\obj\Debug\net6.0\INFNET.Spotfy.Infra.GeneratedMSBuildEditorConfig.editorconfig
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Infra\obj\Debug\net6.0\INFNET.Spotfy.Infra.AssemblyInfoInputs.cache
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Infra\obj\Debug\net6.0\INFNET.Spotfy.Infra.AssemblyInfo.cs
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Infra\obj\Debug\net6.0\INFNET.Spotfy.Infra.csproj.CoreCompileInputs.cache
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Infra\obj\Debug\net6.0\INFNET.Spotfy.Infra.dll
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Infra\obj\Debug\net6.0\ref\INFNET.Spotfy.Infra.dll
+F:\INFNET\NET\TrabalhoFinal\INFNET.Spotfy\INFNET.Spotfy.Infra\obj\Debug\net6.0\INFNET.Spotfy.Infra.pdb
